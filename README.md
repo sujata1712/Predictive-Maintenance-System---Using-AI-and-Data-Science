@@ -1,5 +1,6 @@
 # Predictive-Maintenance-System---Using-AI-and-Data-Science
 
+
 ## Project Summery:
 
 This project demonstrates the development of a predictive maintenance system using the AI4I 2020 dataset. It applies machine learning techniques to predict potential machine failures based on sensor readings, with the goal of reducing downtime and optimizing maintenance schedules.
